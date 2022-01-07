@@ -2,7 +2,7 @@
 
 To create and build mapstore2 themes
 
-# Install
+## Install
 
 1. Clone project
 ```
@@ -14,7 +14,7 @@ git clone https://github.com/jdev-org/mapstore2-themes.git
 npm install -y -g less
 ```
 
-# Build
+## Build
 
 1. Dupplicate dark theme (or other theme to build)
 2. change or adapt variable.less file
@@ -23,7 +23,7 @@ npm install -y -g less
 lessc <path/theme.less> <path/mytheme.css>
 ```
 
-# Deploy
+## Deploy
 
 1. deploy mytheme.css file
 
