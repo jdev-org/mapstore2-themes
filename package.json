@@ -1,0 +1,24 @@
+{
+  "name": "mapstore2-themes",
+  "version": "1.0.0",
+  "description": "To create and build mapstore2 themes",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react-select": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdev-org/mapstore2-themes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdev-org/mapstore2-themes/issues"
+  },
+  "homepage": "https://github.com/jdev-org/mapstore2-themes#readme"
+}
